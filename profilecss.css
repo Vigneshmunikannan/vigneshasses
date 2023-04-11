@@ -1,0 +1,30 @@
+body{
+    background-color: #b3f4f1;
+}
+.box{
+    Width:989.74px;
+    Height: 729.92px;
+    margin-top:170.57px;
+    margin-left: 18%;
+    border-radius: 29px;
+    border: 7px solid #000000;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 15px 15px black inset;
+    background-color: #3DB2D3;
+    color: white;
+}
+.img{
+  position: relative;
+  margin-left: 38%;
+  margin-top:-180px;
+}
+.txt{
+    font-size: x-large;
+    margin-left: -60px;
+}
+.pro{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 40%;
+}
